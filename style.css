@@ -1,0 +1,75 @@
+body
+{
+    background: #333;
+    color:black;
+  
+    
+}
+
+#body
+{
+    background: #fff;
+    padding: 10px;
+    margin: 100px auto;
+    width: 50%;
+    box-shadow:0 0 10px  #000;
+
+}
+#title_bar table
+{
+    font-size: 12pt;
+    font-family: sans-serif;
+    width:100%;
+    
+    
+}
+#title_bar a
+{
+    width:100%;
+     
+}
+#title_bar td:hover
+{
+
+    background-color: lightgrey;
+    
+}
+#addPhoto h3
+{
+    text-align: center;
+}
+#CreateAlbums
+{
+     margin-top: 10px;
+    padding: 10px;
+    border-style: double;
+    border-color: black;
+}
+#album_Display
+{
+    margin-top: 10px;
+    padding: 10px;
+    border-style: double;
+    border-color: black;
+}
+#addPhoto
+{   
+    margin-top: 10px;
+    padding: 10px;
+    border-style: double;
+    border-color: black;
+}
+#albumImages
+{
+    margin-top: 10px;
+    padding: 10px;
+    border-style: double;
+    border-color: black;
+}
+#albumImages img
+{   height: auto;
+    width: auto;
+    max-height: 200px;
+    max-width: 200px;
+    overflow:hidden;
+}
